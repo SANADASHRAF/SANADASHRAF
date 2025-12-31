@@ -30,6 +30,3 @@
 - Email: [sanadbareen@gmail.com](mailto:sanadbareen@gmail.com)  
 - Phone: +20 121 205 8735  
 
----
-
-✨ Let's build something amazing together!
