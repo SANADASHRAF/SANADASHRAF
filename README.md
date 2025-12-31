@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sanad Ashraf 
 
-## 🖥️ Full Stack .NET Developer | Angular Enthusiast
+## 🖥️ Full Stack .NET Developer | Angular 
 
 ---
 
