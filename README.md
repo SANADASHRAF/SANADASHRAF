@@ -29,7 +29,6 @@
 
 - Email: [sanadbareen@gmail.com](mailto:sanadbareen@gmail.com)  
 - Phone: +20 121 205 8735  
-- [GitHub](https://github.com/sanadbareen) | [LinkedIn](https://www.linkedin.com/in/sanad-ashraf-bareen/) | [LeetCode](https://leetcode.com/) | [Codeforces](https://codeforces.com/)
 
 ---
 
